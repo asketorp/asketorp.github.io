@@ -1,0 +1,3 @@
+Options +Indexes
+IndexIgnore .??* .. *~ *# HEADER* README* RCS CVS *,v *,t
+IndexOptions NameWidth=* Charset=UTF-8 SuppressLastModified SuppressDescription FancyIndexing
