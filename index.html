@@ -41,6 +41,9 @@
     </div>
   </script>
 
+<script id="named-links-template" type="text/x-handlebars-template">
+  <p>{{#each files}}<a href="{{{../path}}}{{{file}}}">{{#if name}}{{name}}{{else}}{{file}}{{/if}}</a><br/>{{/each}}</p>
+</script>
 
 
 </head>

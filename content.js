@@ -29,6 +29,12 @@ $(function() {
     if (! (contentId in data) ){
       contentId = Object.keys(data)[0];
     }
+
+    if (data[contentId].body === null) {
+      var tmpl = Handlebars.compile($("#" + data[contentId].template).html());
+      data[contentId].body = tmpl(data[contentId].data);
+    }
+
     $("#content").html(contentTemplate(data[contentId]));
   };
 
