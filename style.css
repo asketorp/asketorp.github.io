@@ -175,7 +175,7 @@ a:hover,a:active{
   text-decoration:underline;
 }
 
-.menu *, .menu a:link, a:visited {
+.menu *, .menu a:link, .menu a:visited {
   background:none;
   color:#FFF;
 }
