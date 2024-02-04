@@ -64,6 +64,10 @@ var dikning_files = [
 {file: '2022-08-17_Protokoll_Årsmöte.pdf'},
 {file: '2022-08-17_Revisionsberättelse.pdf'},
 {file: '2022-08-17_Verksamhetsberättelse.pdf'},
+{file: '2023-08-19-_Kallelse.pdf'},
+{file: '2023-08-19__Revisionsberättelse1.pdf'},
+{file: '2023-08-19__Revisionsberättelse2.pdf'},
+{file: '2023-08-19__Årsmötesprotokoll.pdf'},
 ];
 var vag_files = [
 {file: '1945-03-16__forrattningshandlingar.pdf'},
@@ -121,6 +125,10 @@ var vag_files = [
 {file: '2022-08-17_Utdebitering.pdf'},
 {file: '2022-08-17_Verksamhetsberattelse.pdf'},
 {file: '2022-08-17_Årsmötesprotokoll.pdf'},
+{file: '2023-08-19__Kallelse.pdf'},
+{file: '2023-08-19__Revisionsberättelse.pdf'},
+{file: '2023-08-19__Verksamhetsberättelse.pdf'},
+{file: '2023-08-19__Årsmötesprotokoll.pdf'},
 ];
 var by_files = [
 {file: '2020-08-15__Protkoll_Stämma.pdf'},
