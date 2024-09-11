@@ -53,6 +53,7 @@ var dikning_files = [
 {file: '2019-08-17_Verksamhetsberättlse.pdf'},
 {file: '2019-12-10_Styrelsemöte.pdf'},
 {file: '2020-08-15_Kallelse.pdf'},
+{file: '2020-08-15_Protokoll_Årsmöte.pdf'},
 {file: '2020-08-15_Revisionsberättlse.pdf'},
 {file: '2020-08-15_Verksamhetsberättlse.pdf'},
 {file: '2021-08-15_Kallelse.pdf'},
