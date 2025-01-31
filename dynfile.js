@@ -75,6 +75,7 @@ var dikning_files = [
 ];
 var vag_files = [
 {file: '1945-03-16_forrattningshandlingar.pdf'},
+{file: '1988-03-11_Ändring_Andelstal.pdf'},
 {file: '2010-08-15_Protokoll.pdf'},
 {file: '2011-03-26_kallelse.pdf'},
 {file: '2011-03-26_motesprotokoll.pdf'},
@@ -136,6 +137,7 @@ var vag_files = [
 {file: '2024-08-17_Kallelse.pdf'},
 {file: '2024-08-17_Protokoll.pdf'},
 {file: '2024-08-17_Verksamhetsberättelse.pdf'},
+{file: '2025-01-16_Ändring_andelstal,_ansökan.pdf'},
 ];
 var by_files = [
 {file: '2020-08-15__Protkoll_Stämma.pdf'},
