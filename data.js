@@ -108,7 +108,7 @@ var data =
   },
   vag_deltagare: {
     title: 'Deltagarlängd vägsamfällighet',
-    body: '<table><tbody><tr><td><strong>Asketorp 1:2</strong></td><td>34 %</td></tr><tr><td><strong>Asketorp 1:3</strong></td><td>57 %</td></tr><tr><td><strong>Asketorp 1:7</strong></td><td>3 %</td></tr><tr><td><strong>Asketorp 1:13</strong></td><td>3 %</td></tr><tr><td><strong>Asketorp 1:14</strong></td><td>1 %</td></tr><tr><td><strong>Asketorp 1:18</strong></td><td>1 %</td></tr><tr><td><strong>Asketorp 1:19</strong></td><td>1 %</td></tr></tbody></table>	',
+    body: '<table><tbody><tr><td><strong>Asketorp 1:2</strong></td><td>25</td></tr><tr><td><strong>Asketorp 1:3</strong></td><td>57</td></tr><tr><td><strong>Asketorp 1:7</strong></td><td>3</td></tr><tr><td><strong>Asketorp 1:13</strong></td><td>3</td></tr><tr><td><strong>Asketorp 1:14</strong></td><td>1</td></tr><tr><td><strong>Asketorp 1:15</strong></td><td>1</td></tr><tr><td><strong>Asketorp 1:16</strong></td><td>3</td></tr><tr><td><strong>Asketorp 1:17</strong></td><td>1</td></tr><tr><td><strong>Asketorp 1:18</strong></td><td>1</td></tr><tr><td><strong>Asketorp 1:19</strong></td><td>1</td></tr><tr><td><strong>Asketorp 1:20</strong></td><td>3</td></tr></tbody><tfoot><tr><td><strong>Summa</strong></td><td>99</td></tr></tfoot></table>',
   },
   vag_dokument: {
     title: 'Dokumentarkiv för Vägsamfälligheten',
